@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "20250407_2125_Animated Academic Supplies_simple_compose_01jr9g2004e1jvn3p962d55m38.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
